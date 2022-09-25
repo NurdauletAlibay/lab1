@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 
-/* Container */
+/* Container container */
 .container {
 	width: 100%;
 	max-width: 1200px;
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 }
 
-/* Header */
+/* Header header */
 .header {
 	width: 100%;
 	padding-top: 30px;
